@@ -1,0 +1,2 @@
+QUICKAR-karaoke-manager
+=======================
